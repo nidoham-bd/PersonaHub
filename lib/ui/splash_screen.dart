@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:supabase_flutter/supabase_flutter.dart';
-import 'auth_screen.dart';
+import '../presentation/screen/auth_screen.dart';
 import 'home_screen.dart';
 
 class SplashScreen extends StatefulWidget {
